@@ -172,12 +172,11 @@ Unlike generic career guidance platforms, this system **discovers passion first*
 ---
 
 ## 🏆 Hackathon Details
-- **Team Name:** Avengers
-- **Event:** Smart India Hackathon 2025
-- **Theme:** Smart Education
-- **Category:** Software
+- **Team Name:** OOPS WE CODED
+- **Event:** VIBE CRAFT 2026
+- **Theme:** CAREER PATHS EXPOSURE
 
 ---
 
 ## 👥 Team
-Team Avengers
+OOPS WE CODED
